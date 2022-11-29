@@ -2,7 +2,7 @@
 A python code built using CNN and tensorflow to detect the presence of a tree in an image. 
 The directory structure of training and testing images are as follows:
 
-basedata
+basedata <br />
    |_train
        |_tree
        |_nottree
