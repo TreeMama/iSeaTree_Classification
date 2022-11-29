@@ -3,12 +3,20 @@ A python code built using CNN and tensorflow to detect the presence of a tree in
 The directory structure of training and testing images are as follows:
 
 basedata <br />
-   |_train <br />
-       |_tree <br />
-       |_nottree <br />
-    |_test <br />
-       |_tree <br />
-       |_nottre <br />
-    |_Validation <br />
-       |_tree <br /> 
-       |_nottree <br />
+   {<br />
+   train <br />
+       {<br />
+         tree <br />
+         nottree <br />
+        }<br />
+   test <br />
+       {<br />
+       tree <br />
+       nottree <br />
+       }<br />
+   Validation <br />
+       {<br />
+       tree <br /> 
+       nottree <br />
+       }<br />
+    }<br />
