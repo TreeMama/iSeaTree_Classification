@@ -1,5 +1,5 @@
-**detect-a-tree.py **
-A python code built using CNN and tensorflow to detect the presence of a tree in an image. 
+**detect-a-tree.py ** <br />
+A python code built using CNN and tensorflow to detect the presence of a tree in an image.  <br />
 The directory structure of training and testing images are as follows:
 
 basedata -> train, test <br />
